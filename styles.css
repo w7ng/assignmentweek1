@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-image: url(/images/AquaTeenHungerForceColonMovieFilmForTheaters_onesheet_USA-1-500x729.jpg);
+}
+
+
+.plate {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 10px;
+    background-color: rgba(0,0,0,.99);
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    margin-bottom: 40px;
+}
+
